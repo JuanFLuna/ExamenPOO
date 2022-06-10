@@ -26,9 +26,18 @@ namespace Examen_POO
 
             }
 
+            public void Desplguiegue ()
+            {
+                Console.WriteLine("Producto: " + Nombre);
+                Console.WriteLine("Descripcion: " + Descripcion);
+                Console.WriteLine("Precio: " + Precio);
+                Console.WriteLine("Cantidad en Stock: " + Cantidad);
+            }
+
         }
         static void Main(string[] args)
         {
+
 
             try
             {
@@ -59,18 +68,18 @@ namespace Examen_POO
                 Inventario e1 = new Inventario(Nombre, Descripcion, Precio, Cantidad);
 
                 prod.WriteLine(Nombre, Descripcion, Precio, Cantidad);
+                Console.Clear();
+                e1.Desplguiegue();
+
             }
             catch (IOException e)
             {
                 Console.WriteLine("Error: " + e.Message);
                 Console.WriteLine("Ruta: " + e.StackTrace);
             }
-            finally
-            {
-                // Cierra el archivo.
-                if (prod != null) prop.close();
+            Console.ReadKey();
             }
         }
     }
     
-}
+

@@ -1,0 +1,7 @@
+C:\Users\TECNM-ITT\source\repos\Examen POO\Examen POO\bin\Debug\Examen POO.exe.config
+C:\Users\TECNM-ITT\source\repos\Examen POO\Examen POO\bin\Debug\Examen POO.exe
+C:\Users\TECNM-ITT\source\repos\Examen POO\Examen POO\bin\Debug\Examen POO.pdb
+C:\Users\TECNM-ITT\source\repos\Examen POO\Examen POO\obj\Debug\Examen POO.csproj.AssemblyReference.cache
+C:\Users\TECNM-ITT\source\repos\Examen POO\Examen POO\obj\Debug\Examen POO.csproj.CoreCompileInputs.cache
+C:\Users\TECNM-ITT\source\repos\Examen POO\Examen POO\obj\Debug\Examen POO.exe
+C:\Users\TECNM-ITT\source\repos\Examen POO\Examen POO\obj\Debug\Examen POO.pdb
